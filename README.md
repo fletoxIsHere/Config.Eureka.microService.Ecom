@@ -1,4 +1,3 @@
-
 #  micro service for billing,customers, inventory
 
     using eureka discovery and configuration micro service
@@ -16,3 +15,8 @@
     full bill using  @FeignClient(name = "CUSTOMER-SERVICE") and @FeignClient(name = "INVENTORY-SERVICE")
 
 ![image](https://github.com/fletoxIsHere/Config.Eureka.microService.Ecom/assets/106785467/b281d65b-3d6d-4ba2-ab74-e2ef3c90bccb)
+
+    architecture des micro-service
+![image](https://github.com/fletoxIsHere/Config.Eureka.microService.Ecom/assets/106785467/3dc81832-bd32-4e72-9051-7931dd54f41a)
+<br>
+![image](https://github.com/fletoxIsHere/Config.Eureka.microService.Ecom/assets/106785467/1137392a-be30-4c0f-a1ec-ab8c79e8a34e)
